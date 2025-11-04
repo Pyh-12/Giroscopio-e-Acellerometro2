@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "sword_01",
+      "name": "Iron Sword",
+      "cost": 500,
+      "imagepatch": "Store/Sprites/Iron_Sword", 
+      "description": "A basic sword.",
+      "purchased": false,
+      "prefabname": "IronSword",
+      "prefabpatch": "Store/Prefabs/IronSword"
+    },
+    {
+      "id": "pickaxe_01",
+      "name": "Iron Pickaxe",
+      "cost": 120,
+      "imagepatch": "Store/Sprites/Iron_Pickaxe", 
+      "description": "A basic Iron Pickaxeord.",
+      "purchased": false,
+      "prefabname": "IronPickaxe",
+      "prefabpatch": "Store/Prefabs/IronPickaxe"
+    },
+    {
+      "id": "ironAxe_01",
+      "name": "Iron Axe",
+      "cost": 120,
+      "imagepatch": "Store/Sprites/Iron_Axe", 
+      "description": "A basic Iron Axe.",
+      "purchased": false,
+      "prefabname": "IronAxe",
+      "prefabpatch": "Store/Prefabs/IronAxe"
+    },
+    {
+      "id": "potion_hp",
+      "name": "Health Potion",
+      "cost": 50,
+      "imagepatch": "Store/Sprites/potion_hp",
+      "description": "Restore HP.",
+      "purchased": false,
+      "prefabname": "",
+      "prefabpatch": ""
+    }
+  ]
+}
